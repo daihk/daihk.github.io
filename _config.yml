@@ -1,14 +1,13 @@
 # Site settings
-title: 戴宏凯 博客
+title: HongKai,Dai Blog
 header-img: img/home-bg.jpg
 email: daihk@impcas.ac.cn
-copyright_name: Your/Project/Corporate Name
+copyright_name: HongKai Dai, All Rights Reserved.
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
 url: "http://daihk@github.io"
-twitter_username: SBootstrap
-github_username:  henergy555
-facebook_username:  StartBootstrap
+#twitter_username: SBootstrap
+github_username:  daihk
+#facebook_username:  StartBootstrap
 email_username:  daihk@impcas.ac.cn
 
 # Google Analytics

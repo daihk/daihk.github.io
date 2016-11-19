@@ -3,7 +3,30 @@
 <generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2016-11-19T17:02:07+08:00</updated>
+<updated>2016-11-19T21:42:19+08:00</updated>
 <id>http://localhost:4000/</id>
 <subtitle>Write your site description here. It will be used as your sites meta description as well!</subtitle>
+<entry>
+<title>一只投入技术怀抱的物理学沙文主义猪</title>
+<link href="http://localhost:4000/moon/2016/11/19/ChangeJob/" rel="alternate" type="text/html" title="一只投入技术怀抱的物理学沙文主义猪" />
+<published>2016-11-19T18:14:48+08:00</published>
+<updated>2016-11-19T18:14:48+08:00</updated>
+<id>http://localhost:4000/moon/2016/11/19/ChangeJob</id>
+<content type="html" xml:base="http://localhost:4000/moon/2016/11/19/ChangeJob/">&lt;p&gt;等我写完~
+{% highlight ruby %}
+def print_hi(name)
+  puts “Hi, #{name}”
+end
+print_hi(‘Tom’)
+#=&amp;gt; prints ‘Hi, Tom’ to STDOUT.
+{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+<author>
+<name>HongKai</name>
+</author>
+<summary>等我写完~def print_hi(name)  puts &quot;Hi, #{name}&quot;endprint_hi('Tom')#=&amp;gt; prints 'Hi, Tom' to STDOUT.</summary>
+</entry>
 </feed>
